@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Library (Prompt Laybary)",
+  "description": "A professional library to store, manage, and execute custom AI prompts and utility links for content creators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
